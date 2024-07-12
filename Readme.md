@@ -115,7 +115,5 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 ### License
 This project is licensed under the MIT License.
 ```bash
-
----
 You can copy this content directly into your `README.md` file. Make sure to adjust the repository URL and any other placeholders as needed.
 ```
