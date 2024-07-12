@@ -1,0 +1,10 @@
+Table authors {
+  id int [pk, increment]
+  name varchar
+}
+
+Table books {
+  id int [pk, increment]
+  title varchar
+  author_id int [ref: > authors.id]
+}
